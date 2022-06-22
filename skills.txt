@@ -1,0 +1,1 @@
+Skils: Linux terminal, gitbash, git, postman JSON, XML, SQL
